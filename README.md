@@ -12,5 +12,5 @@ Next run train_model.py to train the machine learning model to learn your face, 
 
 Finally run facial_req.py to run the facial recognition code, You should see a yellow box around your face and it should have the name you used earlier and it will also say unknow if it detects a face it has not learned.
 
-Short video demo of the code: [Youtube](https://youtu.be/kLFi7LLejkY?si=yaF0GL1wtAe7e-kB)
+Short video demo of the code: [Youtube](https://youtu.be/kLFi7LLejkY?si=j3w1M1crMmLpD3V1)
 
