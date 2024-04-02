@@ -1,6 +1,6 @@
 # Face_Recognition
 
-Program to train an machine learning model to know your face and identify it using the Raspberry Pi camera module.
+Program to train a machine learning model to know your face and identify it using the Raspberry Pi camera module.
 
 Before running any code make sure you have a directory adjacent to the code named "dataset", in that directory you will make a folder with your name. Also go into the headshots_picam.py code and replace my name ("Jessie") with the name you used for the folder.
 
